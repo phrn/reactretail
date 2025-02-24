@@ -1,0 +1,502 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/02e/582_874_1/43uxjwiwhepmosdsbyb9822ckw2gwd4h.webp",
+    "title": "ASICS GEL-NIMBUS 9",
+    "types": [0, 1],
+    "sizes": [41.5],
+    "price": 149,
+    "category": 6,
+    "rating": 10
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/1ac/582_874_1/gwmcjw920kecry27o7luyawudf2ul6ve.webp",
+    "title": "Salomon XT-6",
+    "types": [0, 1],
+    "sizes": [41.5, 42.5],
+    "price": 249,
+    "category": 6,
+    "rating": 7
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/de9/582_874_1/4iyb0bpa0lncce9fz1wh1ec6djxli16e.webp",
+    "title": "Nike Dunk Low SE",
+    "types": [0, 1],
+    "sizes": [44],
+    "price": 159,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/532/582_874_1/40qhm6r88hcfwzrob7xne0ogeyspffsw.webp",
+    "title": "Jordan WMNS 1 Low",
+    "types": [0, 1],
+    "sizes": [43],
+    "price": 179,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/3b7/582_874_1/k0ylev2ayebry48vstbome396vnop7vn.webp",
+    "title": "Jordan WMNS 1 Low",
+    "types": [0, 1],
+    "sizes": [40, 42, 42.5, 43, 44],
+    "price": 179,
+    "category": 6,
+    "rating": 10
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/b7a/582_874_1/b7aee485ed004522a5ec6ce707437548.webp",
+    "title": "Nike x CLOT Air Max 1",
+    "types": [0, 1],
+    "sizes": [41.5],
+    "price": 109,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/a62/582_874_1/rgaiwg7ylqrf6v75q950o8n7por659r9.webp",
+    "title": "Nike WMNS Air Force 1 '07",
+    "types": [0, 1],
+    "sizes": ["36", "37.5", "38.5"],
+    "price": 229,
+    "category": 6,
+    "rating": 10
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/b42/582_874_1/b42c1c096fa33101ec03731e6589a087.webp",
+    "title": "Nike x Travis Scott Air Trainer 1 Light Smoke Gray",
+    "types": [0, 1],
+    "sizes": [41],
+    "price": 279,
+    "category": 6,
+    "rating": 7
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/212/582_874_1/2126f38de71155c44aac30ebc071f81a.webp",
+    "title": "Nike x Travis Scott Air Trainer 1 Brown",
+    "types": [0, 1],
+    "sizes": [41, 42],
+    "price": 279,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/532/582_874_1/40qhm6r88hcfwzrob7xne0ogeyspffsw.webp",
+    "title": "Nike x OFF-WHITE WMNS Vapor Street",
+    "types": [0, 1],
+    "sizes": [35.5, 36],
+    "price": 109,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/94b/582_874_1/h8ixzw59aylw3belnag5x5h6eq4sno0l.webp",
+    "title": "Saucony Shadow 6000",
+    "types": [0, 1],
+    "sizes": [40.5, 42, 45],
+    "price": 129,
+    "category": 6,
+    "rating": 10
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/94ece57dd28f42b3ae1827442901b2d9/81670c5f45284a359454b3ed3561514c.jpg?imwidth=300",
+    "title": "Carhartt WIP AMERICAN SCRIPT",
+    "types": [0, 1],
+    "sizes": ["S"],
+    "price": 89,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8bac0631f15b43e6b3a6322a6193302f/e1afcd4bb3c64dd286d01962fe9cd7eb.jpg?imwidth=300",
+    "title": "KARL LAGERFELD CREW NECK",
+    "types": [0, 1],
+    "sizes": ["S", "L", "XL"],
+    "price": 139,
+    "category": 1,
+    "rating": 10
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/87908e2e44cd429bb01c4347ecdb7ea2/37610c9b219a49b5bb27ae72a5bd5a04.jpg?imwidth=300&filter=packshot",
+    "title": "Carhartt WIP CHASE",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L"],
+    "price": 89,
+    "category": 1,
+    "rating": 7
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e0b673911b0345699dc56f666be59db2/9179db254e19405caf8f5a0fe7c31976.jpg?imwidth=300",
+    "title": "The North Face OUTDOOR GRAPHIC CREW",
+    "types": [0, 1],
+    "sizes": ["M", "L", "XL"],
+    "price": 85,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/25aa415f5e9d4d2cb906e3b647a84b7e/331fa437d4834a3784ce5f0258910695.jpg?imwidth=300",
+    "title": "Napapijri SOVANA",
+    "types": [0, 1],
+    "sizes": ["S", "L", "XL"],
+    "price": 89,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f9644ba72fb3417a8e392e6c0cc75145/376e3fbf84b54b35942983c3dcd3ba9f.jpg?imwidth=300",
+    "title": "Carhartt WIP HALF ZIP AMERICAN SCRIPT",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L"],
+    "price": 94,
+    "category": 1,
+    "rating": 10
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d6351be47324485498ea626bb91c8b29/c9e9727c1e234984958f2b6d8ab289d1.jpg?imwidth=300",
+    "title": "Carhartt WIP AMERICAN SCRIPT",
+    "types": [0, 1],
+    "sizes": ["S", "L", "XL"],
+    "price": 89,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/73ae28e21e3149868f6b5f64c6de79d4/b4a9adff799d45608691120b22b7d350.jpg?imwidth=300",
+    "title": "The North Face MOUNTAIN SKETCH",
+    "types": [0, 1],
+    "sizes": ["S", "M"],
+    "price": 109,
+    "category": 1,
+    "rating": 10
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5067de96916a47e0b85eee209cf2a3d7/8cc3499a31514ccbb416651d09bdf036.jpg?imwidth=300&filter=packshot",
+    "title": "Napapijri BOX LOGO",
+    "types": [0, 1],
+    "sizes": ["S", "L", "XL"],
+    "price": 89,
+    "category": 1,
+    "rating": 7
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0f616e6f494e483981143d22fca643e3/f92ceec093a347fe8697ebd34c36ad05.jpg?imwidth=300",
+    "title": "New Balance GRAPHIC CREW UNISEX",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 41,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4c2e0a1f018a4beda9babb026092155b/0fbb53e5a324466aa83c65b84ceccd9c.jpg?imwidth=400",
+    "title": "A-COLD-WALL* VENEER JACKET UNISEX ",
+    "types": [0, 1],
+    "sizes": ["M", "XL"],
+    "price": 419,
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/34c/582_874_1/6poltf2wmror26aixcq4okg7f9ipk2pz.webp",
+    "title": "Running Religion Safety",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 19,
+    "category": 4,
+    "rating": 9
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/3ad/582_874_1/e01wk3vy9terno0tf91xtczhc2w000or.webp",
+    "title": "Alpha Industries Deck Vest",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 89,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e1debfc002ce4fcb8b6f28670c5b1793/efd3496bca0242f5bfb2f4d1aec5cfb8.jpg?imwidth=300",
+    "title": "Nike ACG Light Jacket Creme",
+    "types": [0, 1],
+    "sizes": ["S", "L", "XL"],
+    "price": 299,
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f65956205a1f44c1ab4b37857530a271/43e074346e5e49139873a07cd52e3f4a.jpg?imwidth=400",
+    "title": "A-COLD-WALL* ANNEX",
+    "types": [0, 1],
+    "sizes": ["L", "XL"],
+    "price": 199,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/24c/582_874_1/i94qgfje5etcyvx4keb1do2hcm14x3ua.webp",
+    "title": "Jordan Flight Down Vest",
+    "types": [0, 1],
+    "sizes": ["M", "XL"],
+    "price": 199,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/9c8/582_874_1/xrdmrl3gx84s2m1dsx9w2ocq1cu31qmm.webp",
+    "title": "Carhartt WIP Springfield",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 249,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/889/582_874_1/kpbcutssurolw731d40d4l2amzkseq7p.webp",
+    "title": "Carhartt WIP Springfield",
+    "types": [0, 1],
+    "sizes": ["S", "M"],
+    "price": 249,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/54d/582_874_1/f3ajxt741f9j0hinqbi6pccpn1fsggr8.webp",
+    "title": "Carhartt WIP Brandon Pant",
+    "types": [0, 1],
+    "sizes": [30, 32, 34],
+    "price": 189,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/f19/582_874_1/ltpmydbct643rh33o3vvg6afi6vmhbiz.webp",
+    "title": "Butter Goods Pooch Relaxed",
+    "types": [0, 1],
+    "sizes": [30, 36, 38],
+    "price": 149,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/d17/582_874_1/7cazdpqzvhpadpwqw8stabv5xipg0tfo.webp",
+    "title": "Carhartt WIP Landon Pant",
+    "types": [0, 1],
+    "sizes": [30, 32, 34],
+    "price": 189,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/198/582_874_1/ak9w2u9fwwpzu7wygvshvdobejh2x3dt.webp",
+    "title": "Carhartt WIP Chase Socks",
+    "types": [0, 1],
+    "sizes": ["39-42", "46-48"],
+    "price": 29,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/e7b/582_874_1/4e02b4iki9jbqw86jrixa59joyo6i0fx.webp",
+    "title": "Carhartt WIP Greatest Hits",
+    "types": [0, 1],
+    "sizes": ["39-42", "42-44", "44-46", "46-48"],
+    "price": 29,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/613/582_874_1/c5ypover1dmjawdfmcenc3yviiudqsol.webp",
+    "title": "Журнал Hypebeast Issue 34",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 39,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/e1f/582_874_1/sr77sdbkhxcwave0zn3cl9t441as6i0x.webp",
+    "title": "Carhartt WIP Canvas Oven",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 79,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/af3/582_874_1/xcxkjm0iradpnm6d77u14u6ranksmk09.webp",
+    "title": "Carhartt WIP Philis",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 179,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/4dc/582_874_1/2fwga7n6ds4n1u7npkjsbx8o2ner7ltw.webp",
+    "title": "Jordan Peak Essential",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 49,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/0c8/582_874_1/3fhc3alwc8qsybmdkgr9y5l8o8k96vlg.webp",
+    "title": "WHITELAB Unit",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 99,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/1e0/582_874_1/i4af45n5yuhtd5klb18a72tq7a2off1s.webp",
+    "title": "Sneakerhead Ball",
+    "types": [0, 1],
+    "sizes": ["One size"],
+    "price": 49,
+    "category": 7,
+    "rating": 9
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/508/582_874_1/u5w9c4eg33r2bc9n5oloh0u7yrhr69yb.webp",
+    "title": "Carhartt WIP Toronto Jacket Black",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 549,
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/d1c/582_874_1/omszz9xvjgwazinfc8s75nk6i8cebswg.webp",
+    "title": "Jordan Flight Down Parka Khaki",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 529,
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/a83/582_874_1/dih5ac6aaimv2j0221u2i0v2eswrslml.webp",
+    "title": "Butter Goods Reversible Vest",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/f36/582_874_1/1kvt5f8i9326tbzpy8hbyxu9cz94u61z.webp",
+    "title": "Jordan Apex Bucket Hat",
+    "types": [0, 1],
+    "sizes": ["S", "M", "L"],
+    "price": 49,
+    "category": 4,
+    "rating": 9
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/723/582_874_1/p6ljq8tiilo04ib7wbl8j54z19h6et4z.webp",
+    "title": "RAP Cap 2",
+    "types": [0, 1],
+    "sizes": ["M", "L"],
+    "price": 29,
+    "category": 4,
+    "rating": 9
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/609/582_874_1/609b7689627983fa3fbcd4a1df71c81e.webp",
+    "title": "Sneakerhead Basic",
+    "types": [0, 1],
+    "sizes": ["M", "L"],
+    "price": 19,
+    "category": 4,
+    "rating": 9
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/bda/582_874_1/kofgielwoes8dht6v8oqw2hdpsuvbiqs.webp",
+    "title": "Carhartt WIP Signature Beanie",
+    "types": [0, 1],
+    "sizes": [50, 52],
+    "price": 49,
+    "category": 4,
+    "rating": 9
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/486/582_874_1/ki10voh9w5ulx7rvtqy5p0gmzdv0ltlt.webp",
+    "title": "Mizuno Wave Rider B",
+    "types": [0, 1],
+    "sizes": ["40.5", "42.5", "45.5", "46.5"],
+    "price": 199,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/4e3/582_874_1/c96gv8v19momrcop9544pe1d1j722z2e.webp",
+    "title": "Hike Talc Slides",
+    "types": [0, 1],
+    "sizes": ["41", "42", "43", "44"],
+    "price": 49,
+    "category": 6,
+    "rating": 9
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://sneakerhead.ru/upload/resize_cache/webp/resize_cache/iblock/e4d/582_874_1/q7up5w0aif09f2t8ilfpab43ptz4sin4.webp",
+    "title": "Carhartt WIP Norwich",
+    "types": [0, 1],
+    "sizes": ["One Size"],
+    "price": 59,
+    "category": 7,
+    "rating": 9
+  }
+]

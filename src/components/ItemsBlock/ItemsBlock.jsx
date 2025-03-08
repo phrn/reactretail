@@ -8,6 +8,7 @@ function ItemsBlock({ title, price, imageUrl, sizes, types }) {
   const typeNames = ["be fame", "be lame"];
 
   return (
+    <div className="items-block__wrapper">
     <div className="items-block">
       <img className="items-block__image" src={imageUrl} alt="#" />
       <h4 className="items-block__title">{title}</h4>
@@ -54,6 +55,7 @@ function ItemsBlock({ title, price, imageUrl, sizes, types }) {
           <i>0</i>
         </button>
       </div>
+    </div>
     </div>
   );
 }

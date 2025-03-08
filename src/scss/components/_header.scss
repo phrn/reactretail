@@ -1,4 +1,4 @@
-@import 'variables';
+@import "../variables";
 
 .header {
   border-bottom: 1px solid $gray-line;
@@ -8,13 +8,29 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    @media (max-width: 600px) {
+      display: flex;
+      flex-direction: column;
+    }
   }
 
   &__logo {
     display: flex;
-
+    @media (max-width: 600px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding-bottom: 10px;
+    }
     img {
       margin-right: 15px;
+      @media (max-width: 440px) {
+        width: 40px;
+        height: 40px;
+        padding-bottom: 5px;
+        margin-right: 0px;
+      }
     }
 
     h1 {
@@ -23,10 +39,16 @@
       letter-spacing: 1%;
       text-transform: uppercase;
       font-weight: 800;
+      @media (max-width: 440px) {
+        font-size: 16px;
+      }
     }
 
     p {
       color: #7b7b7b;
+      @media (max-width: 440px) {
+        align-items: center;
+      }
     }
   }
 }

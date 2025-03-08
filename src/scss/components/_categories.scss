@@ -1,12 +1,62 @@
-@import 'variables';
+@import "../variables";
 
 .categories {
-  ul {
-    display: flex;
+  
+  .popupCat {
+    border: 1px solid #5882ff;
+    margin: 0px;
+    align-items: center;
+    background-color: #5882ff;
+    color: white;
+    font-size: 14px;
+    padding: 13px 20px;
+    border-radius: 30px;
+    transition: 0.5s ease-in-out;
+    &:hover {
+      background-color: #4b78ff;
+    }
+  }
+  display: -webkit-box;
+  display: -ms-grid;
+  display: grid;
+  grid-column-gap: 0px;
+  grid-row-gap: 12px;
 
+  
+  ul {
+    position: absolute;
+  display: -webkit-box;
+  padding-top: 55px;
+  display: -ms-grid;
+  display: grid;
+  transition: 1s ease-in-out;
+
+  grid-column-gap: 0px;
+  grid-row-gap: 12px;
+    @media (min-width: 375px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(8, 1fr);
+    }
+    @media (max-width: 444px) {
+      font-size: 10px;
+    }
+    @media (min-width: 500px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+    }
+    @media (min-width: 770px) {
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+    }
+    @media (min-width: 1450px) {
+      grid-template-columns: repeat(8, 1fr);
+      grid-template-rows: repeat(1, 1fr);
+    }
     li {
+      text-align: center;
+
       background-color: #f9f9f9;
-      padding: 13px 30px;
+      padding: 10px 30px;
       border-radius: 30px;
       margin-right: 10px;
       font-weight: bold;

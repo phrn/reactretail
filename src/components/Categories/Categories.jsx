@@ -1,10 +1,15 @@
 import React from "react";
 
-function Categories() {
-  const [activeIndex, setActiveIndex] = React.useState(0);
-
+function Categories({
+  value,
+  onChangeCategory,
+  open,
+  setOpen,
+  activeIndex,
+  setActiveIndex,
+}) {
   const categories = [
-    "All",
+    "All items",
     "Sweatshirts",
     "Jackets",
     "Vests",
@@ -14,18 +19,21 @@ function Categories() {
     "Accessory",
   ];
 
+
   return (
-    <div className="categories">
+    <div className="categories" onClick={() => setOpen(!open)}>
+      <button className="popupCat">Categories</button>
       <ul>
-        {categories.map((value, i) => (
-          <li
-            key={i}
-            className={activeIndex === i ? "active" : ""}
-            onClick={() => setActiveIndex(i)}
-          >
-            {value}
-          </li>
-        ))}
+        {open &&
+          categories.map((categoryName, i) => (
+            <li
+              key={i}
+              className={value === i ? "active" : ""}
+              onClick={() => onChangeCategory(i)}
+            >
+              {categoryName}
+            </li>
+          ))}
       </ul>
     </div>
   );
